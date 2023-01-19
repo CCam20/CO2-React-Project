@@ -68,3 +68,15 @@ You'll need to create your own (simple) tested model to calculate this.
   
 <li>run seeds 
 <li>run server:dev
+
+<hr>
+<h1>Screenshots</h1>
+
+![main_screen](/screenshots/MainPage.png)
+![form](/screenshots/FormPage.png)
+![user1](/screenshots/User1.png)
+![user2](/screenshots/User2.png)
+![moreinfo1](/screenshots/MoreInfo1.png)
+![moreinfo2](/screenshots/MoreInfo2.png)
+![edit_screen](/screenshots/EditPage.png)
+![hints](/screenshots/HintsPage.png)
